@@ -7,7 +7,7 @@ Recently completed the Le Wagon data science Bootcamp, learning data analysis wi
 Now I live in Amsterdam, interested in cool companies and trying to help companies in their growth process.
 
 - 👀 I’m interested in NEW technologies
-- 🌱 I’m currently learning Data Science and 
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on any interesting project
 - 💬 Ask me about Amsterdam, Spain, wine, tech or learning languages
 - 📫 How to reach me: carlosriosfernandez@gmail.com
